@@ -18,17 +18,7 @@ Algorithmic combinatorics
 
 The goal is to approach these topics both from a theoretical perspective and through hands-on experimentation using Python and related tools.
 
-Repository Structure
-rust
-Copy
-Edit
-combinatorial-research/
-├── notebooks/         Jupyter Notebooks for problem-solving and visualization
-├── src/               Python scripts and reusable modules
-├── notes/             LaTeX or Markdown files with definitions, proofs, and summaries
-├── data/              Sample datasets or input files for testing
-├── references/        Research papers, textbooks, or links for further reading
-└── README.md          This file
+
 Tools and Libraries
 The following tools are commonly used throughout the repository:
 
